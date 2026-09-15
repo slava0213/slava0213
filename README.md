@@ -7,6 +7,8 @@
 - 🌱 Учу на веб-разработчика
 - 📫 Связаться: telegram @ech0_m00n
 
+![snake](https://raw.githubusercontent.com/slava0213/slava0213/output/github-snake.svg)
+
 ## 🛠 Стек
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
