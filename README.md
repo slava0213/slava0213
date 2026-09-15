@@ -1,7 +1,7 @@
 # Привет, я Cлава 👋
 ### Веб-разработчик
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="<img width="736" height="715" alt="5cef43b28c82e2ead43f54f19c310f81" src="https://github.com/user-attachments/assets/a00f2170-a13a-4aba-a599-df778996c717" />">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
