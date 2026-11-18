@@ -44,7 +44,7 @@ I'm Slava, a web development enthusiast focused on creating modern, functional a
 <div align="center">
 
 <a href="https://github.com/slava0213">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=slava0213&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=C9D1D9" alt="GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=slava0213&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=FFFFFF" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/slava0213">
