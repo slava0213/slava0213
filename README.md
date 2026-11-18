@@ -8,7 +8,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:172554,100:2563EB&height=210&section=header&text=SLAVA&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Creative%20Web%20Projects&descAlignY=60&descSize=16&animation=fadeIn" alt="Slava profile banner"/>
 
 <a href="https://github.com/slava0213">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Привет!+Я+Слава+%F0%9F%91%8B;Изучаю+веб-разработку;HTML+%7C+CSS+%7C+JavaScript;Создаю+и+улучшаю+веб-проекты" alt="Анимированное приветствие"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%20%D0%AF%20%D0%A1%D0%BB%D0%B0%D0%B2%D0%B0%20%F0%9F%91%8B%3B%D0%98%D0%B7%D1%83%D1%87%D0%B0%D1%8E%20%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D1%83%3BHTML%20%7C%20CSS%20%7C%20JavaScript%3B%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E%20%D0%B8%20%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B0%D1%8E%20%D0%B2%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B" alt="Анимированное приветствие"/>
 </a>
 
 <br/>
