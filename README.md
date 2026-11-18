@@ -53,7 +53,7 @@ I'm Slava, a web development enthusiast focused on creating modern, functional a
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=slava0213&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak statistics"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=slava0213&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak statistics"/>
 
 </div>
 
